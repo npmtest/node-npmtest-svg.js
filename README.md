@@ -1,6 +1,6 @@
 # npmtest-svg.js
 
-#### basic test coverage for  [svg.js (v2.5.3)](https://svgdotjs.github.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-svg.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg.js.svg)](https://travis-ci.org/npmtest/node-npmtest-svg.js)
+#### basic test coverage for  [svg.js (v2.6.0)](https://svgdotjs.github.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-svg.js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-svg.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-svg.js.svg)](https://travis-ci.org/npmtest/node-npmtest-svg.js)
 
 #### A lightweight library for manipulating and animating SVG.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-svg.js/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-svg.js/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-svg.js/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-svg.js/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-svg.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-svg.js/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-svg.js/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-svg.js/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-svg.js/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-svg.js/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-svg.js/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-svg.js/build/coverage.html/index.html)
 
@@ -67,10 +67,10 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "c5df41f7f4e9269ed9bde15b1eca03f42e954a6f",
-        "tarball": "https://registry.npmjs.org/svg.js/-/svg.js-2.5.3.tgz"
+        "shasum": "13c01e5b2d267734d12531621cefabe49742dcb2",
+        "tarball": "https://registry.npmjs.org/svg.js/-/svg.js-2.6.0.tgz"
     },
-    "gitHead": "230d2a2fa4ab2d73ddbeb4894b1620dc779d3a96",
+    "gitHead": "04e21b18c30d546ed6a16b279504a2b58b503541",
     "github": "https://github.com/svgdotjs/svg.js",
     "homepage": "https://svgdotjs.github.io/",
     "jam": {
@@ -119,7 +119,8 @@
     },
     "typings": "./svg.js.d.ts",
     "url": "https://svgdotjs.github.io/",
-    "version": "2.5.3"
+    "version": "2.6.0",
+    "bin": {}
 }
 ```
 
